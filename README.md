@@ -1,2 +1,2 @@
-# StakeTory
-This repository contains an inventory management application developed using C#. 
+# StakeTory: Offline Inventory Management Application
+This is a web-based inventory management application that allows end-users or business owners to manage their inventory offline. The application provides features such as login, viewing inventory, adding new inventory items, updating inventory data, tracking sales transactions, cancelling transactions, and logging out of the application. This repository contains an inventory management application developed using C#. 
